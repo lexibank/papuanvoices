@@ -8,14 +8,14 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Word list of Sound-Comparisons' study \u201cMixe-Zoque\u201d provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia - accessible via https:/soundcomparisons.com/WestPapua",
+    "dc:title": "Word list of Sound-Comparisons' study \u201cWest Papua\u201d provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia - accessible via https:/soundcomparisons.com/WestPapua",
     "dcat:accessURL": "https://github.com/lexibank/papuanvoices",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/papuanvoices",
-            "dc:created": "537e940"
+            "dc:created": "767205d"
         },
         {
             "rdf:type": "prov:Entity",

@@ -1,4 +1,4 @@
-# Word list of Sound-Comparisons' study “Mixe-Zoque” provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia - accessible via https:/soundcomparisons.com/WestPapua
+# Word list of Sound-Comparisons' study “West Papua” provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia - accessible via https:/soundcomparisons.com/WestPapua
 
 Cite the source dataset as
 
