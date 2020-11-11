@@ -286,7 +286,7 @@
                         "name": "Description"
                     },
                     {
-                        "datatype": "string",
+                        "datatype": "anyURI",
                         "name": "URL"
                     },
                     {
@@ -299,6 +299,7 @@
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
                         "name": "Form_ID"
                     }
                 ],
