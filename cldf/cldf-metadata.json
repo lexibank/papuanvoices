@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/papuanvoices",
-            "dc:created": "767205d"
+            "dc:created": "4001dff"
         },
         {
             "rdf:type": "prov:Entity",
@@ -278,16 +278,17 @@
             "tableSchema": {
                 "columns": [
                     {
-                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "valueUrl": "https://cdstar.shh.mpg.de/bitstreams/{objid}/{fname}",
                         "name": "ID"
                     },
                     {
                         "datatype": "string",
-                        "name": "Description"
+                        "name": "objid"
                     },
                     {
                         "datatype": "string",
-                        "name": "URL"
+                        "name": "fname"
                     },
                     {
                         "datatype": "string",
@@ -299,10 +300,23 @@
                     },
                     {
                         "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
+                        "required": true,
                         "name": "Form_ID"
                     }
                 ],
                 "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
                     {
                         "columnReference": [
                             "Form_ID"
