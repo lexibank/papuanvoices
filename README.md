@@ -9,19 +9,25 @@ Available online at https://papuanvoices.clld.org
 
 ![Glottolog: 85%](https://img.shields.io/badge/Glottolog-85%25-yellowgreen.svg "Glottolog: 85%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
 ![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
 ![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
 
 - **Varieties:** 13
 - **Concepts:** 215
 - **Lexemes:** 2,771
-- **Sources:** 1
+- **Sources:** 0
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 13,618
 - **Segments:** 66 (8 BIPA errors, 8 CTLS sound class errors, 59 CLTS modified)
 - **Inventory size (avg):** 27.15
+
+## Possible Improvements:
+
+
+
+- Entries missing sources: 2771/2771 (100.00%)
 
 # Contributors
 

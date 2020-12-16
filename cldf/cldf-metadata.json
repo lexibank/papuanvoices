@@ -6,7 +6,6 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
-    "dc:source": "sources.bib",
     "dc:title": "West Papua wordlist and recordings provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia",
     "dcat:accessURL": "https://github.com/lexibank/papuanvoices",
     "prov:wasDerivedFrom": [
@@ -14,7 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/papuanvoices",
-            "dc:created": "e12dac7"
+            "dc:created": "f1ade5b"
         },
         {
             "rdf:type": "prov:Entity",

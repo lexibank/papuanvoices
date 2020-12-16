@@ -10,7 +10,7 @@ class Dataset(BaseDataset):
     id = 'papuanvoices'
 
     study_name = 'WestPapua'
-    source_id_array = ['Sawaki2019']
+    source_id_array = []
     create_cognates = False
 
     form_placeholder = '►'
