@@ -1,45 +1,44 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Yusuf Sawaki and Jeanete Lekeneny and Apriani Arilaha and Jimmi Kirihio and Emanuel Tutorop and Boas Wabia and Infak Mayor and Simon Tabuni and Stevani Karesina and Darja D\u00ebrmaku-Appelganz and Paul Heggarty. 2019. Word list of Sound-Comparisons' study \u201cWestPapua\u201d. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https:/soundcomparisons.com/WestPapua, Accessed on 2020-11-11.)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:identifier": "https:/soundcomparisons.com/WestPapua",
+    "dc:identifier": "https://papuanvoices.clld.org",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Word list of Sound-Comparisons' study \u201cWest Papua\u201d provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia - accessible via https:/soundcomparisons.com/WestPapua",
+    "dc:title": "West Papua wordlist and recordings provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia",
     "dcat:accessURL": "https://github.com/lexibank/papuanvoices",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/papuanvoices",
-            "dc:created": "4001dff"
+            "dc:created": "e12dac7"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "dc:created": "v4.3-treedb-fixes-291-g41fabe3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.4.0-1-gb4a1681"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "dc:created": "v1.4-108-g56bba2b"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.5"
+            "dc:description": "3.7.9"
         },
         {
             "dc:title": "python-packages",
