@@ -52,7 +52,6 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Yusuf Sawaki and Jeanete Lekeneny and Apriani Arilaha and Jimmi Kirihio and Emanuel Tutorop and Boas Wabia and Infak Mayor and Simon Tabuni and Stevani Karesina and Darja D\u00ebrmaku-Appelganz and Paul Heggarty. 2019. Word list of Sound-Comparisons&#x27; study \u201cWestPapua\u201d. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at https:/soundcomparisons.com/WestPapua, Accessed on 2020-11-11.)</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-NC-4.0"
     }

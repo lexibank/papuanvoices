@@ -1,4 +1,4 @@
-# West Papua wordlist and recordings provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia
+# West Papua wordlists and recordings provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia
 
 This dataset is licensed under a CC-BY-NC-4.0 license
 
@@ -10,8 +10,8 @@ Available online at https://papuanvoices.clld.org
 ![Glottolog: 85%](https://img.shields.io/badge/Glottolog-85%25-yellowgreen.svg "Glottolog: 85%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
-![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
+![BIPA: 94%](https://img.shields.io/badge/BIPA-94%25-green.svg "BIPA: 94%")
+![CLTS SoundClass: 94%](https://img.shields.io/badge/CLTS%20SoundClass-94%25-green.svg "CLTS SoundClass: 94%")
 
 - **Varieties:** 13
 - **Concepts:** 215
@@ -20,7 +20,7 @@ Available online at https://papuanvoices.clld.org
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 13,618
-- **Segments:** 66 (8 BIPA errors, 8 CTLS sound class errors, 59 CLTS modified)
+- **Segments:** 66 (4 BIPA errors, 4 CTLS sound class errors, 63 CLTS modified)
 - **Inventory size (avg):** 27.15
 
 ## Possible Improvements:
