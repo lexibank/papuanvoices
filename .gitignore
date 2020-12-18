@@ -1,6 +1,7 @@
 # CLDF/Lexibank stuff
 cldf/.transcription-report.json
-offline/
+*offline/
+*media
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -131,3 +132,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macOS
+.DS_Store
+__MACOSX

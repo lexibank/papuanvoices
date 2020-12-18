@@ -2,18 +2,19 @@
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Papuan Voices presents phonetically-transcribed primary recordings, from numerous places throughout Papua island",
     "dc:identifier": "https://papuanvoices.clld.org",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
-    "dc:title": "West Papua wordlists and recordings provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia",
+    "dc:title": "Papuan Voices",
     "dcat:accessURL": "https://github.com/lexibank/papuanvoices",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/papuanvoices",
-            "dc:created": "e9fb21c"
+            "dc:created": "8677cd0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -37,7 +38,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.9"
+            "dc:description": "3.8.5"
         },
         {
             "dc:title": "python-packages",
@@ -78,12 +79,14 @@
                         "titles": "Concept_ID"
                     },
                     {
+                        "dc:description": "\u25ba := no value, but audio",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
                         "required": true,
                         "name": "Value"
                     },
                     {
+                        "dc:description": "\u25ba := no form, but audio",
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
                         "required": true,
