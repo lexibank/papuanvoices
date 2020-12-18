@@ -1,4 +1,7 @@
-# West Papua wordlists and recordings provided by Yusuf Sawaki & Jeanete Lekeneny & Apriani Arilaha & Jimmi Kirihio & Emanuel Tutorop & Boas Wabia
+# Papuan Voices
+
+
+Papuan Voices presents phonetically-transcribed primary recordings, from numerous places throughout Papua island
 
 This dataset is licensed under a CC-BY-NC-4.0 license
 

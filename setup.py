@@ -23,8 +23,8 @@ setup(
         ]
     },
     install_requires=[
-        'pylexibank>=2.8.1',
-        'cldfbench>=1.2.2',
+        'pylexibank>=2.8.2',
+        'cldfbench>=1.3.0',
     ],
     extras_require={
         'test': [
