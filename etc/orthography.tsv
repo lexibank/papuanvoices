@@ -1,168 +1,88 @@
-Grapheme	IPA	EXAMPLES	LANGUAGES	FREQUENCY	CODEPOINTS
-^	NULL				
-$	NULL				
-a	a	waɽimakai, oɽaikamutoʀati	Mee	100	U+0061
-i	i	eiliwik, sikda	Mee, Mekwnalca	100	U+0069
-ɾ	ɾ	kɾi, heɾɛɾɛ	Wbomberaiiha, Mekwnalca, Abun, Mee, Mpur	100	U+027e
-n	n	oɡunda, senina	Mekwnalca, Mee	100	U+006e
-u	u	oɡunda, buɡum	Abun, Mekwnalca, Mee	100	U+0075
-a$	a	sikda, oɡunda	Mekwnalca, Mee	100	U+0061 U+0024
-ɛ	ɛ	kɛmɛŋkɛmɛŋ, pɛhɛɾkɛih	Wbomberaiiha, Abun	100	U+025b
-ɔ	ɔ	tɔmɔntɔmɔɲa, kɔŋbɔt	Wbomberaiiha, Mekwnalca, Mee	100	U+0254
-m	m	jamememeː, jame	Mekwnalca, Mee	100	U+006d
-i$	i	si, kɾi	Mee, Abun, Mekwnalca, Wbomberaiiha, Mpur	100	U+0069 U+0024
-e	e	maekaepejo, keɾepa	Mekwnalca, Mee	100	U+0065
-^m	m	man, mɛn	Abun, Wbomberaiiha, Mekwnalca, Mpur, Mee	100	U+005e U+006d
-o	o	doɡoɾop, hoŋ	Mekwnalca, Mee, Abun, Wbomberaiiha	100	U+006f
-^k	k	kɾi, kuɾ	Wbomberaiiha, Mee, Mekwnalca, Abun, Mpur	100	U+005e U+006b
-t	t	eta, kantatɛn	Mee, Wbomberaiiha, Miyah, Mpur, Abun	100	U+0074
-k	k	sikda, mɛnkawɛ	Mee, Mekwnalca, Wbomberaiiha, Mpur, Abun	100	U+006b
-^a	a	ai, am	Irires, Miyah, Mee, Abun, Mekwnalca, Mpur, Ambel, Wbomberaiiha	100	U+005e U+0061
-u$	u	su, sju	Abun, Mpur, Miyah, Irires, Ambel, Mee, Mekwnalca	100	U+0075 U+0024
-n$	n	man, mɛn	Mpur, Wbomberaiiha, Abun, Mekwnalca, Miyah	100	U+006e U+0024
-w	w	mɛnkawɛ, mɔwakʰ	Miyah, Mee, Irires, Mpur, Ambel, Abun, Wbomberaiiha, Yapenwooi, Mekwnalca	100	U+0077
-d	d	sikda, oɡunda	Mee, Mekwnalca, Wbomberaiiha, Abun, Miyah, Mpur	100	U+0064
-j	j	sju, ija	Mee, Miyah, Mekwnalca, Abun, Wbomberaiiha, Ambel, Mpur, Irires	100	U+006a
-p	p	pupu, papɛt	Miyah, Wbomberaiiha, Ambel, Mee, Yapenwooi, Mekwnalca, Mpur, Irires, Abun	100	U+0070
-^d	d	dɛ, da	Irires, Abun, Mee, Mekwnalca, Mpur, Wbomberaiiha, Miyah	100	U+005e U+0064
-^p	p	pɛɾ, pɔh	Miyah, Wbomberaiiha, Mee, Mpur, Abun, Mekwnalca	100	U+005e U+0070
-^n	n	non, nan	Abun, Wbomberaiiha, Mpur, Mekwnalca, Ambel, Miyah, Mee, Yapenwooi	100	U+005e U+006e
-ɔ$	ɔ	akɔwɔɾfɔ, mɔ	Waropen, Abun, Miyah, Wbomberaiiha, Ambel, Ansus, Mpur, Irires, Mee	100	U+0254 U+0024
-b	b	daba, kasobabat	Ambel, Mee, Mekwnalca, Mpur, Yapenwooi, Abun, Wbomberaiiha, Miyah, Irires, Ansus	100	U+0062
-^w	w	wɔt, wɔɾ	Mee, Wbomberaiiha, Mekwnalca, Mpur, Yapenwooi, Ambel, Ansus, Abun, Miyah	100	U+005e U+0077
-^s	s	su, sikda	Mekwnalca, Abun, Miyah, Mpur, Ambel, Irires, Wbomberaiiha	100	U+005e U+0073
-^t	t	ti, tat	Wbomberaiiha, Miyah, Ambel, Mpur, Abun, Mee, Irires, Yapenwooi	100	U+005e U+0074
-ɾ$	ɾ	pɛɾ, wɔɾ	Mpur, Wbomberaiiha, Irires, Abun, Yapenpoom, Miyah, Ambel, Mekwnalca	100	U+027e U+0024
-^b	b	bum, bin	Mpur, Abun, Mekwnalca, Mee, Ambel, Yapenwooi, Ansus, Irires, Miyah	100	U+005e U+0062
-k$	k	ɪndʊɾik, miɲak	Wbomberaiiha, Mekwnalca, Mpur, Abun, Miyah, Irires	100	U+006b U+0024
-ŋ$	ŋ	nuiŋ, mamaŋ	Yapenwooi, Ansus, Mekwnalca, Wbomberaiiha, Irires	100	U+014b U+0024
-ɡ	ɡ	oɡunda, laɡalap	Mekwnalca, Wbomberaiiha, Irires, Abun, Ambel, Mpur, Miyah, Biak, Mee, Waropen	100	U+0261
-m$	m	am, bum	Mpur, Abun, Miyah, Mekwnalca, Irires, Ambel, Wbomberaiiha	100	U+006d U+0024
-s	s	koɾisi, mɛsasuŋ	Biak, Irires, Ambel, Miyah, Mekwnalca, Yapenpoom, Abun, Ansus, Yapenwooi, Wbomberaiiha, Waropen, Mpur	100	U+0073
-^ɾ	ɾ	ɾia, ɾɛ	Yapenpoom, Biak, Yapenwooi, Ansus, Waropen, Wbomberaiiha, Abun, Irires, Mee, Ambel	100	U+005e U+027e
-t$	t	wɔt, pat	Mpur, Abun, Miyah, Wbomberaiiha, Irires, Ambel, Mekwnalca	100	U+0074 U+0024
-^h	h	hokama, hembai	Yapenwooi, Mekwnalca, Yapenpoom, Wbomberaiiha, Miyah, Ambel, Mpur, Mee	100	U+005e U+0068
-o$	o	ho, taɾaho	Mee, Yapenpoom, Yapenwooi, Biak, Mekwnalca, Ambel, Abun, Waropen	100	U+006f U+0024
-^j	j	jau, jame	Biak, Mee, Mekwnalca, Mpur, Yapenwooi, Ambel, Miyah, Yapenpoom, Abun, Wbomberaiiha, Ansus, Waropen, Irires	100	U+005e U+006a
-l	l	koluklamna, welelamna	Mekwnalca, Ambel, Mee, Wbomberaiiha	100	U+006c
-f	f	kafukɔ, akɔwɔɾfɔ	Irires, Waropen, Biak, Miyah, Mpur, Wbomberaiiha, Abun	100	U+0066
-^i	i	ine, itu	Biak, Mee, Ambel, Mekwnalca, Mpur, Yapenpoom, Waropen, Irires, Abun, Ansus, Wbomberaiiha, Yapenwooi	100	U+005e U+0069
-h	h	piaɾehi heha diŋ, taɾaho	Yapenpoom, Wbomberaiiha, Yapenwooi, Irires, Ambel, Miyah, Mekwnalca, Waropen	82	U+0068
-ɛ$	ɛ	dɛ, ɾɛ	Abun, Miyah, Wbomberaiiha, Mpur, Ambel, Ansus	81	U+025b U+0024
-e$	e	ine, me	Biak, Mee, Ambel, Yapenwooi, Yapenpoom, Waropen, Mpur, Mekwnalca	78	U+0065 U+0024
-^ɛ	ɛ	ɛɾ, ɛɾu	Ansus, Miyah, Abun, Wbomberaiiha, Mpur, Irires	70	U+005e U+025b
-ŋ	ŋ	iŋkiɾa, kaŋkoŋ	Wbomberaiiha, Waropen, Mekwnalca, Mpur, Irires, Ambel, Ansus, Yapenpoom, Abun, Yapenwooi, Miyah	66	U+014b
-s$	s	is, sus	Irires, Biak, Miyah, Abun, Mekwnalca, Mpur, Wbomberaiiha, Yapenpoom, Ambel, Waropen	60	U+0073 U+0024
-p$	p	mandep, ʤap	Mpur, Wbomberaiiha, Mekwnalca, Biak, Yapenpoom, Ambel, Abun, Irires, Yapenwooi	54	U+0070 U+0024
-^f	f	fu, fɔ	Mpur, Biak, Miyah, Waropen, Abun, Mekwnalca, Ambel	47	U+005e U+0066
-β	β	waβu, hawaβaβiŋ	Yapenpoom, Wbomberaiiha, Yapenwooi	47	U+03b2
-h$	h	pɔh, diɛh	Wbomberaiiha, Miyah, Irires	46	U+0068 U+0024
-ʊ	ʊ	tʊmpʊtɛɾɪ, tʊmpʊwɔ	Wbomberaiiha	44	U+028a
-^u	u	utu, unɔ	Mee, Mpur, Waropen, Yapenpoom, Irires, Miyah, Abun, Ambel, Yapenwooi, Mekwnalca, Biak, Ansus	40	U+005e U+0075
-ʤ	ʤ	iʤau, ɛʤɔi	Ansus, Mpur, Irires, Wbomberaiiha, Abun, Ambel	40	U+02a4
-^e	e	eta, ena	Mee, Mekwnalca, Waropen, Yapenpoom, Biak, Irires	38	U+005e U+0065
-^ɡ	ɡ	ɡu, ɡeli	Abun, Irires, Mekwnalca, Waropen, Ambel, Mee, Miyah	38	U+005e U+0261
-^l	l	laɡalap, lambadja	Ambel, Mekwnalca, Mee	36	U+005e U+006c
-f$	f	duf, tuf	Irires, Miyah, Biak, Abun, Yapenpoom	35	U+0066 U+0024
-ɪ	ɪ	ŋɡɪɾɪyaŋ, mɪdʊɾɪk	Wbomberaiiha, Irires, Mekwnalca	26	U+026a
-^ɔ	ɔ	ɔm, ɔt	Waropen, Irires, Abun, Mpur, Miyah, Wbomberaiiha, Mee	24	U+005e U+0254
-^ŋ	ŋ	ŋɡɪɾɪyaŋ, ŋɡɛβɛh	Wbomberaiiha, Miyah, Waropen, Mekwnalca, Mee	24	U+005e U+014b
-ɽ	ɽ	waɽi, nakaɽi	Mee	22	U+027d
-tʃ$	tʃ	dutʃ, ditʃ	Irires	22	U+0074 U+0283 U+0024
-^β	β	βaɾa, βaɾapema	Yapenwooi, Yapenpoom	22	U+005e U+03b2
-^o	o	oɡunda, oɾoi	Mee, Mekwnalca, Yapenpoom, Abun, Ambel	20	U+005e U+006f
-ɲ	ɲ	miɲak, tɔmɔntɔmɔɲa	Mekwnalca, Mpur, Ambel, Wbomberaiiha, Ansus, Yapenpoom, Abun, Biak	20	U+0272
-^ʤ	ʤ	ʤam, ʤan	Abun, Mpur, Wbomberaiiha, Ansus, Waropen	20	U+005e U+02a4
-c	c	dicui, acitʰ	Irires, Mekwnalca, Ambel, Yapenwooi, Waropen	19	U+0063
-_	_	piakoɔdu ɛa uɾa, piaɾehi heha diŋ	Irires, Ansus, Yapenwooi, Mpur, Miyah, Abun	19	U+005f
-l$	l	hol, tul	Ambel, Mekwnalca	17	U+006c U+0024
-ʌ$	ʌ	pɛmʌ, pɾiʌ	Miyah, Ambel	17	U+028c U+0024
-ɣ	ɣ	muɣle, ntɔɣa	Mee, Wbomberaiiha, Waropen	14	U+0263
-^hⁿ	hⁿ	hⁿuhⁿu, hⁿoɾe	Yapenpoom, Yapenwooi	14	U+005e U+0068 U+207f
-ʌ	ʌ	pɔhʌsiʌf, pɛtʌk	Miyah	13	U+028c
-kʰ$	kʰ	dikʰ, mɔwakʰ	Irires	13	U+006b U+02b0 U+0024
-ms	ms	jamsiʤaɾ, tɛmsu	Miyah, Abun, Irires, Ambel	11	U+006d U+0073
-hⁿ	hⁿ	hⁿuhⁿu, hⁿahⁿi	Yapenwooi, Yapenpoom	11	U+0068 U+207f
-ʊ$	ʊ	nɔʊ, wakʊ	Wbomberaiiha	10	U+028a U+0024
-^►$	NULL	►	Yapenwooi	10	U+005e U+25ba U+0024
-aː	aː	etikaːto, maːɽi	Mee	9	U+0061 U+02d0
-ʀ	ʀ	aʀiaʀini, jaʀamo	Mee	9	U+0280
-ns	ns	minsawa, minsɛm	Mpur, Abun, Ambel, Biak	9	U+006e U+0073
-^ɲ	ɲ	ɲan, ɲaɲaɾ	Mpur, Abun, Biak, Ambel, Ansus	9	U+005e U+0272
-w$	w	siw, ujouw	Biak, Irires, Yapenpoom, Mee, Waropen	8	U+0077 U+0024
-ɡ$	ɡ	muɡ, biɡ	Wbomberaiiha, Mpur, Irires	8	U+0261 U+0024
-^kw	kw	kwajib, kwan	Mpur, Abun	8	U+005e U+006b U+0077
-b$	b	jaɾob, ɾob	Mpur, Biak	8	U+0062 U+0024
-iː$	iː	etiː, wiː	Mee	7	U+0069 U+02d0 U+0024
-aː$	aː	kaijaː, ebaː	Mee	6	U+0061 U+02d0 U+0024
-kw	kw	hekwi, nikwɛ	Mpur, Abun, Yapenwooi, Mekwnalca, Ambel	6	U+006b U+0077
-^c	c	ciɾik aɾfik, ciɾik	Irires, Yapenwooi	6	U+005e U+0063
-tʰ$	tʰ	mastʰ, dicɔtʰ	Irires	6	U+0074 U+02b0 U+0024
-eː$	eː	meː, jamememeː	Mee	5	U+0065 U+02d0 U+0024
-oː$	oː	kadajoː, inoː	Mee	5	U+006f U+02d0 U+0024
-ks	ks	omuksam, okslamna	Mekwnalca	5	U+006b U+0073
-ɪ$	ɪ	ɾɔɡɛhɛβɪ, kɪ	Wbomberaiiha	5	U+026a U+0024
-^i$	i	i	Abun, Ansus, Mpur, Yapenwooi	5	U+005e U+0069 U+0024
-ħ	ħ	aħ mɔu, aħ afɛitʃ	Irires	5	U+0127
-^ɪ	ɪ	ɪndʊɾik, ɪn	Wbomberaiiha	4	U+005e U+026a
-^bw	bw	bwat, bwa	Mpur	4	U+005e U+0062 U+0077
-ms$	m s	dims, afims	Irires	4	U+006d U+0073 U+0024
-eː	eː	meːime, bineːi	Mee	3	U+0065 U+02d0
-oː	oː	loːu, joːni	Mee	3	U+006f U+02d0
-ɑ	ɑ	kapumɑi, pijɑpo	Mee	3	U+0251
-bw	bw	membeabwat, kubwɛn	Mpur	3	U+0062 U+0077
-^ns	n s	nsɛnɛ, nsiɛ	Miyah	3	U+005e U+006e U+0073
-tʃ	tʃ	sintʃ tɔhuɾ, sintʃ tuɾɔm	Irires	3	U+0074 U+0283
-ħ$	ħ	ħiɛɾħ, maħ	Irires	3	U+0127 U+0024
-pʰ$	pʰ	difapʰ, duɾpʰ	Irires	3	U+0070 U+02b0 U+0024
-ɡɡ	ɡɡ	mɡɡo, meɡɡamoɾ	Biak	3	U+0261 U+0261
-N	<?>	ikiNfiɾ, biNɡuan	Biak	3	U+004e
-^ʀ	ʀ	ʀaki, ʀaːti	Mee	2	U+005e U+0280
-I$	<?>	tipI, puːmaI	Mee	2	U+0049 U+0024
-uː$	uː	ebepuː, puː	Mee	2	U+0075 U+02d0 U+0024
-ts	ts	hatsam, hatso	Mekwnalca	2	U+0074 U+0073
-^u$	u	u	Abun, Mekwnalca	2	U+005e U+0075 U+0024
-tw	t w	pɛtwɛ, mɛtwɛi	Irires, Abun	2	U+0074 U+0077
-ɡw	ɡ w	aɾmɛnaŋɡwaɾah, duŋɡwat	Mpur, Miyah	2	U+0261 U+0077
-d$	d	mapud, aid	Miyah	2	U+0064 U+0024
-jw	j w	ajwɔ, aɾsjweɾ	Biak, Miyah	2	U+006a U+0077
-mw	m w	pumwɔt, samwɔh	Miyah	2	U+006d U+0077
-dʰ$	dʰ	moodʰ, audʰ	Irires	2	U+0064 U+02b0 U+0024
-ɾs	ɾ s	aɾsuwaɾe, aɾsjweɾ	Biak	2	U+027e U+0073
-^sw	s w	swaɾuseɾ, swa	Biak	2	U+005e U+0073 U+0077
-iː	iː	mepiːna	Mee	1	U+0069 U+02d0
-^oː	oː	oːu	Mee	1	U+005e U+006f U+02d0
-ɑ$	ɑ	ɡabɑ	Mee	1	U+0251 U+0024
-^ɑː$	ɑː	ɑː	Mee	1	U+005e U+0251 U+02d0 U+0024
-U$	<?>	udU	Mee	1	U+0055 U+0024
-^iː$	iː	iː	Mee	1	U+005e U+0069 U+02d0 U+0024
-^ɣ	ɣ	ɣaʀa	Mee	1	U+005e U+0263
-uː	uː	puːmaI	Mee	1	U+0075 U+02d0
-ɽ$	ɽ	tiɽ	Mee	1	U+027d U+0024
-nh	nh	denɡanhonokbadja	Mekwnalca	1	U+006e U+0068
-c$	c	hac	Mekwnalca	1	U+0063 U+0024
-^hw	hw	hwal	Mekwnalca	1	U+005e U+0068 U+0077
-^e$	e	e	Mekwnalca	1	U+005e U+0065 U+0024
-v	v	kikivɔn	Wbomberaiiha	1	U+0076
-ŋw	ŋ w	wɛŋwɛŋɡah	Wbomberaiiha	1	U+014b U+0077
-nw	n w	wɔnwʊn	Wbomberaiiha	1	U+006e U+0077
-hw	h w	kahwaŋ	Wbomberaiiha	1	U+0068 U+0077
-ɾh	ɾ h	hiɾhiɾa	Wbomberaiiha	1	U+027e U+0068
-^y	y	yɛt	Wbomberaiiha	1	U+005e U+0079
-y	y	ŋɡɪɾɪyaŋ	Wbomberaiiha	1	U+0079
-ɾw	ɾ w	kɔdoɾwaɾɛ	Wbomberaiiha	1	U+027e U+0077
-^ɳ	ɳ	ɳɡɛm	Abun	1	U+005e U+0273
-^ɡw	ɡw	ɡwi	Abun	1	U+005e U+0261 U+0077
-^ʌ	ʌ	ʌti	Miyah	1	U+005e U+028c
-ʔʰ$	ʔʰ	mɛɾʔʰ	Irires	1	U+0294 U+02b0 U+0024
-^tʰ	tʰ	tʰukun	Irires	1	U+005e U+0074 U+02b0
-dw	d w	adwɔtʃ	Irires	1	U+0064 U+0077
-sw	s w	mɔswaitʃ	Irires	1	U+0073 U+0077
-oo	oo	moodʰ	Irires	1	U+006f U+006f
-^ħ	ħ	ħiɛɾħ	Irires	1	U+005e U+0127
-ɡʰ$	ɡʰ	ditɔɡʰ	Irires	1	U+0261 U+02b0 U+0024
-ŋh	ŋ h	aŋhio	Ambel	1	U+014b U+0068
-^ø	ø	øapa	Yapenwooi	1	U+005e U+00f8
-ø	ø	jaiøuiŋ	Yapenwooi	1	U+00f8
-ɳ	ɳ	kaɳuhⁿu	Yapenwooi	1	U+0273
-ɲ$	ɲ	sjoseɲ	Biak	1	U+0272 U+0024
+Grapheme	IPA
+^	NULL
+$	NULL
+_	_
+►	NULL
+a	a
+ŋ	ŋ
+ŋh	ŋ h
+ŋw	ŋ w
+ø	ø
+ħ	ħ
+aː	aː
+b	b
+bw	b w
+^bw	bʷ
+c	c
+d	d
+dw	d w
+dʰ	dʰ
+e	e
+ʀ	ʀ
+ʊ	ʊ
+ʌ	ʌ
+ɑ	ɑ
+ɑː	ɑː
+ɔ	ɔ
+ɛ	ɛ
+ɡ	ɡ
+ɡɡ	ɡɡ
+ɡw	ɡʷ
+ɡʰ	ɡʰ
+ʤ	ʤ
+ɣ	ɣ
+ɽ	ɽ
+ɾ	ɾ
+ɾh	ɾ h
+ɾs	ɾ s
+ɾw	ɾ w
+ɲ	ɲ
+ɳ	ɳ
+eː	eː
+ɪ	ɪ
+f	f
+h	h
+hw	h w
+hⁿ	hⁿ
+I	i
+i	i
+β	β
+iː	iː
+j	j
+jw	j w
+k	k
+ks	k s
+kw	kw
+kʰ	kʰ
+l	l
+m	m
+ms	m s
+mw	m w
+^mb	ᵐb
+N	n
+Ng	n ɡ
+Nf	n f
+ns	n s
+n	n
+nh	n h
+nw	n w
+o	o
+oː	oː
+oo	oː
+p	p
+pʰ	pʰ
+s	s
+sw	s w
+s j
+t	t
+tʰ	tʰ
+tʃ	tʃ
+ts	ts
+tw	t w
+U	u
+u	u
+uː	uː
+v	v
+w	w
+y	y
+ʔʰ	ʔʰ
