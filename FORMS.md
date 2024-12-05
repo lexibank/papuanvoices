@@ -9,11 +9,11 @@ The value-to-form processing is divided into two steps, implemented as methods:
 
 These methods use the attributes of a `FormSpec` instance to configure their behaviour.
 
-- `brackets`: `{}`
+- `brackets`: `{'(': ')'}`
   Pairs of strings that should be recognized as brackets, specified as `dict` mapping opening string to closing string
-- `separators`: ``
+- `separators`: `(';', '/', ',')`
   Iterable of single character tokens that should be recognized as word separator
-- `missing_data`: `('..', '--', '**', '-..', '...', '÷')`
+- `missing_data`: `['..']`
   Iterable of strings that are used to mark missing data
 - `strip_inside_brackets`: `False`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
