@@ -17,27 +17,21 @@ Available online at https://papuanvoices.clld.org
 ## Statistics
 
 
-![Glottolog: 85%](https://img.shields.io/badge/Glottolog-85%25-yellowgreen.svg "Glottolog: 85%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
-![CLTS SoundClass: 88%](https://img.shields.io/badge/CLTS%20SoundClass-88%25-yellowgreen.svg "CLTS SoundClass: 88%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 13
-- **Concepts:** 215
+- **Varieties:** 13 (linked to 13 different Glottocodes)
+- **Concepts:** 215 (linked to 215 different Concepticon concept sets)
 - **Lexemes:** 2,771
-- **Sources:** 0
+- **Sources:** 1
 - **Synonymy:** 1.00
-- **Invalid lexemes:** 0
-- **Tokens:** 13,618
-- **Segments:** 66 (8 BIPA errors, 8 CTLS sound class errors, 59 CLTS modified)
-- **Inventory size (avg):** 27.15
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 2771/2771 (100.00%)
+- **Invalid lexemes:** 10
+- **Tokens:** 13,627
+- **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 61 CLTS modified)
+- **Inventory size (avg):** 26.62
 
 # Contributors
 
@@ -54,6 +48,7 @@ Simon Tabuni |  | data entry | Author
 Stevani Karesina |  | data entry | Author
 Paul Heggarty |  | author, consultant | Author
 Darja Dërmaku-Appelganz |  | audio post-processing | Author
+Russell Gray |  | Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Papuan Voices study. | Author
 Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Other
 
 

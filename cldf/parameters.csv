@@ -1,216 +1,216 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss,IndexInSource
-1_one,one,1493,ONE,1-0
-2_two,two,1498,TWO,2-0
-3_three,three,492,THREE,3-0
-4_four,four,1500,FOUR,4-0
-5_five,five,493,FIVE,5-0
-6_six,six,1703,SIX,6-0
-7_seven,seven,1704,SEVEN,7-0
-8_eight,eight,1705,EIGHT,8-0
-9_nine,nine,1483,NINE,9-0
-10_ten,ten,1515,TEN,10-0
-11_twenty,twenty,1710,TWENTY,11-0
-12_fifty,fifty,1717,FIFTY,15-0
-13_onehundred,one hundred,1634,HUNDRED,20-0
-14_onethousand,one thousand,1843,THOUSAND,21-0
-15_year,year,1226,YEAR,51-0
-16_right,right,1019,RIGHT,81-0
-17_left,left,244,LEFT,82-0
-18_i,I,1209,I,101-0
-19_weallexcl,"we  (all, EXcl.)",1130,WE (EXCLUSIVE),102-0
-20_webothincl,"we  (both, INcl.)",2637,WE TWO (INCLUSIVE),102-1
-21_webothexcl,"we  (both, EXcl.)",2636,WE TWO (EXCLUSIVE),102-2
-22_weallincl,"we  (all, INcl.)",1131,WE (INCLUSIVE),102-3
-23_thou,thou,1215,THOU,104-0
-24_youboth,you  (both),1213,YOU,105-0
-25_youall,you  (all),2111,YOU TWO,105-2
-26_heshe,he/she,2642,HE OR SHE,106-0
-27_theyall,they  (all),817,THEY,107-0
-28_theyboth,they  (both),2635,THEY TWO,107-2
-29_nonot,"no, not",2279,NO OR NOT,112-0
-30_what,what,1236,WHAT,121-0
-31_who,who,1235,WHO,122-0
-32_where,where,1237,WHERE,123-0
-33_when,when,1238,WHEN,124-0
-34_how,how,1239,HOW,125-0
-35_this,this,1214,THIS,131-0
-36_that,that,78,THAT,132-0
-37_and,and,1577,AND,134-0
-38_above,above,1741,ABOVE,138-0
-39_below,below,1485,BELOW OR UNDER,139-0
-40_ininside,"in, inside",1460,IN,141-0
-41_at,at,1461,AT,148-0
-42_if,if,1459,IF,171-0
-43_head,head,1256,HEAD,201-0
-44_hair,hair,1040,HAIR,205-0
-45_eye,eye,1248,EYE,211-0
-46_nose,nose,1221,NOSE,212-0
-47_ear,ear,1247,EAR,213-0
-48_mouth,mouth,674,MOUTH,221-0
-49_tongue,tongue,1205,TONGUE,223-0
-50_tooth,tooth,1380,TOOTH,224-0
-51_hand,hand,1277,HAND,231-0
-52_shoulder,shoulder,1482,SHOULDER,233-0
-53_neck,neck,1333,NECK,241-0
-54_back,back,1291,BACK,242-0
-55_leg,leg,2098,FOOT OR LEG,252-0
-56_blood,blood,946,BLOOD,261-0
-57_bone,bone,1394,BONE,262-0
-58_skin,skin,763,SKIN,263-0
-59_belly,belly,1251,BELLY,271-0
-60_intestines,intestines,1991,INTESTINES,272-0
-61_breast,breast,1402,BREAST,274-0
-62_liver,liver,1224,LIVER,284-0
-63_dog,dog,2009,DOG,312-0
-64_bird,bird,937,BIRD,321-0
-65_fish,fish,227,FISH,324-0
-66_snake,snake,730,SNAKE,341-0
-67_worm,worm,1219,WORM,342-0
-68_louse,louse,1392,LOUSE,343-0
-69_rat,rat,1490,RAT,345-0
-70_spider,spider,843,SPIDER,349-0
-71_mosquito,mosquito,1509,MOSQUITO,352-0
-72_egg,egg,744,EGG,381-0
-73_tail,tail,1220,TAIL,383-0
-74_wing,wing,1257,WING,384-0
-75_feather,feather,1201,FEATHER,385-0
-76_person,person,683,PERSON,401-0
-77_man,man,2106,MALE PERSON,402-0
-78_woman,woman,2105,FEMALE PERSON,403-0
-79_child,child,2099,CHILD,405-0
-80_name,name,1405,NAME,410-0
-81_mother,mother,1216,MOTHER,431-0
-82_father,father,1217,FATHER,432-0
-83_husband,husband,1200,HUSBAND,435-0
-84_wife,wife,1199,WIFE,436-0
-85_day,day,1225,DAY (NOT NIGHT),501-0
-86_night,night,1233,NIGHT,502-0
-87_moon,moon,1313,MOON,512-0
-88_star,star,1430,STAR,513-0
-89_sky,sky,1732,SKY,515-0
-90_water,water,948,WATER,521-0
-91_lake,lake,624,LAKE,523-0
-92_sea,sea,1474,SEA,524-0
-93_fire,fire,221,FIRE,541-0
-94_smoke,smoke,778,SMOKE (EXHAUST),542-0
-95_ash,ash,646,ASH,543-0
-96_stone,stone,857,STONE,551-0
-97_earthsoil,"earth, soil",1228,EARTH (SOIL),552-0
-98_dust,dust,2,DUST,553-0
-99_sand,sand,671,SAND,554-0
-100_rain,rain,658,RAIN (PRECIPITATION),581-0
-101_cloud,cloud,1489,CLOUD,584-0
-102_wind,wind,960,WIND,585-0
-103_fog,fog,249,FOG,586-0
-104_thunder,thunder,1150,THUNDER,592-0
-105_lightning,lightning,1654,LIGHTNING,593-0
-106_meatflesh,"meat, flesh",2615,FLESH OR MEAT,603-0
-107_salt,salt,1274,SALT,604-0
-108_fatgrease,"fat, grease",323,FAT (ORGANIC SUBSTANCE),606-0
-109_fruit,fruit,1507,FRUIT,609-0
-110_woodsforest,"woods, forest",420,FOREST,622-0
-111_root,root,670,ROOT,624-0
-112_branch,branch,1531,BRANCH,625-0
-113_leaf,leaf,628,LEAF,626-0
-114_wood,wood,1295,STICK,628-0
-115_grass,grass,606,GRASS,631-0
-116_flower,flower,239,FLOWER,632-0
-117_thatchroof,"thatch, roof",2100,THATCH OR ROOF,633-0
-118_house,house,1252,HOUSE,651-0
-119_rope,rope,1218,ROPE,662-0
-120_needle,needle,1382,NEEDLE (FOR SEWING),663-0
-121_roadpath,"road, path",2457,PATH OR ROAD,681-0
-122_black,black,163,BLACK,701-0
-123_white,white,1335,WHITE,702-0
-124_red,red,156,RED,703-0
-125_green,green,1425,GREEN,704-0
-126_yellow,yellow,1424,YELLOW,705-0
-127_big,big,1202,BIG,711-0
-128_small,small,1246,SMALL,717-0
-129_long,long,1203,LONG,721-0
-130_short,short,1645,SHORT,722-0
-131_thick,thick,1244,THICK,735-0
-132_thin,thin,2308,THIN,736-0
-133_narrow,narrow,1267,NARROW,737-0
-134_wide,wide,1243,WIDE,738-0
-135_sharp,sharp,1396,SHARP,741-0
-136_bluntdull,"blunt, dull",379,BLUNT,742-0
-137_shyashamed,"shy, ashamed",487,SHY,749-0
-138_old,old,1229,OLD,752-0
-139_painfulsick,"painful, sick",2103,PAINFUL OR SICK,763-0
-140_good,good,1035,GOOD,771-0
-141_bad,bad,1292,BAD,772-0
-142_correcttrue,"correct, true",1725,CORRECT (RIGHT),773-0
-143_dirty,dirty,1230,DIRTY,777-0
-144_rotten,rotten,1728,ROTTEN,780-0
-145_all,all,98,ALL,782-0
-146_heavy,heavy,1210,HEAVY,786-0
-147_far,far,1406,FAR,788-0
-148_near,near,1942,NEAR,789-0
-149_warm,warm,1232,WARM,791-0
-150_cold,cold,1287,COLD,792-0
-151_dry,dry,1398,DRY,793-0
-152_wet,wet,1726,WET,794-0
-153_new,new,1231,NEW,798-0
-154_other,other,197,OTHER,799-0
-155_come,come,1446,COME,802-0
-156_walk,walk,1443,WALK,803-0
-157_grow,grow,479,GROW,809-0
-158_stand,stand,1442,STAND,811-0
-159_sit,sit,1416,SIT,812-0
-160_fall,fall,1280,FALL,813-0
-161_liedown,lie down,215,LIE DOWN,814-0
-162_turn,turn,1588,TURN,815-0
-163_climb,climb,1102,CLIMB,818-0
-164_swim,swim,1439,SWIM,821-0
-165_flyverb,fly (verb),1441,FLY (MOVE THROUGH AIR),822-0
-166_throw,throw,1456,THROW,826-0
-167_hide,hide,602,HIDE (CONCEAL),827-0
-168_chew,chew,321,CHEW,829-0
-169_eat,eat,1336,EAT,831-0
-170_drink,drink,1401,DRINK,832-0
-171_bite,bite,1403,BITE,833-0
-172_suck,suck,1421,SUCK,834-0
-173_yawn,yawn,1028,YAWN,836-0
-174_spit,spit,1440,SPIT,837-0
-175_dream,dream,1920,DREAM (SOMETHING),840-0
-176_sleep,sleep,1585,SLEEP,841-0
-177_live,live,1422,BE ALIVE,842-0
-178_die,die,2101,BE DEAD OR DIE,843-0
-179_kill,kill,1417,KILL,844-0
-180_see,see,1409,SEE,851-0
-181_hear,hear,1408,HEAR,852-0
-182_sniffsmell,"sniff, smell",1586,SMELL (PERCEIVE),854-0
-183_know,know,1410,KNOW (SOMETHING),855-0
-184_think,think,2271,THINK,856-0
-185_laugh,laugh,1355,LAUGH,858-0
-186_cry,cry,1839,CRY,859-0
-187_blow,blow,175,BLOW (OF WIND),867-0
-188_burn,burn,2102,BURN,868-0
-189_flow,flow,2003,FLOW,869-0
-190_sew,sew,1457,SEW,874-0
-191_pound,pound,354,POUND,880-0
-192_hit,hit,1433,HIT,881-0
-193_cut,cut,1432,CUT,887-0
-194_split,split,1437,SPLIT,888-0
-195_dig,dig,1418,DIG,889-0
-196_hunt,hunt,1435,HUNT,892-0
-197_hold,hold,1448,HOLD,893-0
-198_fear,fear,1419,FEAR (BE AFRAID),895-0
-199_count,count,1420,COUNT,896-0
-200_breathe,breathe,1407,BREATHE,897-0
-201_vomit,vomit,1278,VOMIT,900-0
-202_tieup,tie (up),1094,FASTEN,901-0
-203_squeeze,squeeze,1414,SQUEEZE,902-0
-204_swell,swell,1573,SWELL,903-0
-205_say,say,1458,SAY,904-0
-206_scratch,scratch,1436,SCRATCH,905-0
-207_stab,stab,1434,STAB,906-0
-208_buy,buy,1869,BUY,912-0
-209_steal,steal,713,STEAL,913-0
-210_choose,choose,1750,CHOOSE,915-0
-211_plant,plant,1486,PLANT (SOMETHING),918-0
-212_cook,cook,1100,COOK (SOMETHING),922-0
-213_shoot,shoot,1172,SHOOT,940-0
-214_work,work,1086,WORK (ACTIVITY),950-0
-215_open,open,1156,OPEN,962-0
+ID,Name,Concepticon_ID,Concepticon_Gloss,Papuan_Malay_Gloss
+1_one,one,1493,ONE,satu
+2_two,two,1498,TWO,dua
+3_three,three,492,THREE,tiga
+4_four,four,1500,FOUR,empat
+5_five,five,493,FIVE,lima
+6_six,six,1703,SIX,enam
+7_seven,seven,1704,SEVEN,tujuh
+8_eight,eight,1705,EIGHT,delapan
+9_nine,nine,1483,NINE,sembilan
+10_ten,ten,1515,TEN,sepuluh
+11_twenty,twenty,1710,TWENTY,duapuluh
+12_fifty,fifty,1717,FIFTY,limapuluh
+13_onehundred,one hundred,1634,HUNDRED,seratus
+14_onethousand,one thousand,1843,THOUSAND,seribu
+15_year,year,1226,YEAR,tahun
+16_right,right,1019,RIGHT,kanan
+17_left,left,244,LEFT,kiri
+18_i,I,1209,I,sa
+19_weallexcl,"we  (all, EXcl.)",1130,WE (EXCLUSIVE),kitong
+20_webothincl,"we  (both, INcl.)",2637,WE TWO (INCLUSIVE),
+21_webothexcl,"we  (both, EXcl.)",2636,WE TWO (EXCLUSIVE),
+22_weallincl,"we  (all, INcl.)",1131,WE (INCLUSIVE),kitong
+23_thou,thou,1215,THOU,ko
+24_youboth,you  (both),2111,YOU TWO,kam
+25_youall,you  (all),1213,YOU,kam
+26_heshe,he/she,2642,HE OR SHE,de/dia
+27_theyall,they  (all),817,THEY,dong
+28_theyboth,they  (both),2635,THEY TWO,
+29_nonot,"no, not",2279,NO OR NOT,"tidak, bukan"
+30_what,what,1236,WHAT,apa
+31_who,who,1235,WHO,siapa
+32_where,where,1237,WHERE,di mana
+33_when,when,1238,WHEN,kapan
+34_how,how,1239,HOW,bagaimana
+35_this,this,1214,THIS,ini
+36_that,that,78,THAT,itu
+37_and,and,1577,AND,dan
+38_above,above,1741,ABOVE,di atas
+39_below,below,1485,BELOW OR UNDER,di bawah
+40_ininside,"in, inside",1460,IN,di dalam
+41_at,at,1461,AT,di
+42_if,if,1459,IF,kalau
+43_head,head,1256,HEAD,kepala
+44_hair,hair,1040,HAIR,rambut
+45_eye,eye,1248,EYE,mata
+46_nose,nose,1221,NOSE,hidung
+47_ear,ear,1247,EAR,telinga
+48_mouth,mouth,674,MOUTH,mulut
+49_tongue,tongue,1205,TONGUE,lidah
+50_tooth,tooth,1380,TOOTH,gigi
+51_hand,hand,1277,HAND,tangan
+52_shoulder,shoulder,1482,SHOULDER,bahu
+53_neck,neck,1333,NECK,leher
+54_back,back,1291,BACK,belakang (badan)
+55_leg,leg,2098,FOOT OR LEG,kaki
+56_blood,blood,946,BLOOD,darah
+57_bone,bone,1394,BONE,tulang
+58_skin,skin,763,SKIN,kulit
+59_belly,belly,1251,BELLY,perut
+60_intestines,intestines,1991,INTESTINES,usus
+61_breast,breast,1402,BREAST,"payudara, susu"
+62_liver,liver,1224,LIVER,hati
+63_dog,dog,2009,DOG,anjing
+64_bird,bird,937,BIRD,burung
+65_fish,fish,227,FISH,ikan
+66_snake,snake,730,SNAKE,ular
+67_worm,worm,1219,WORM,cacing
+68_louse,louse,1392,LOUSE,kutu
+69_rat,rat,1490,RAT,tikus
+70_spider,spider,843,SPIDER,laba-laba
+71_mosquito,mosquito,1509,MOSQUITO,nyamuk
+72_egg,egg,744,EGG,telur
+73_tail,tail,1220,TAIL,ekor
+74_wing,wing,1257,WING,sayap
+75_feather,feather,1201,FEATHER,bulu
+76_person,person,683,PERSON,manusia
+77_man,man,2106,MALE PERSON,laki-laki
+78_woman,woman,2105,FEMALE PERSON,perempuan
+79_child,child,2099,CHILD,anak
+80_name,name,1405,NAME,nama
+81_mother,mother,1216,MOTHER,mama
+82_father,father,1217,FATHER,bapa
+83_husband,husband,1200,HUSBAND,suami
+84_wife,wife,1199,WIFE,istri
+85_day,day,1225,DAY (NOT NIGHT),siang
+86_night,night,1233,NIGHT,malam
+87_moon,moon,1313,MOON,bulan
+88_star,star,1430,STAR,bintang
+89_sky,sky,1732,SKY,langit
+90_water,water,948,WATER,air
+91_lake,lake,624,LAKE,danau
+92_sea,sea,1474,SEA,laut
+93_fire,fire,221,FIRE,api
+94_smoke,smoke,778,SMOKE (EXHAUST),asap
+95_ash,ash,646,ASH,abu
+96_stone,stone,857,STONE,batu
+97_earthsoil,"earth, soil",1228,EARTH (SOIL),tanah
+98_dust,dust,2,DUST,"debu, abu"
+99_sand,sand,671,SAND,pasir
+100_rain,rain,658,RAIN (PRECIPITATION),hujan
+101_cloud,cloud,1489,CLOUD,awan
+102_wind,wind,960,WIND,angin
+103_fog,fog,249,FOG,kabut
+104_thunder,thunder,1150,THUNDER,guntur
+105_lightning,lightning,1654,LIGHTNING,kilat
+106_meatflesh,"meat, flesh",2615,FLESH OR MEAT,daging
+107_salt,salt,1274,SALT,garam
+108_fatgrease,"fat, grease",323,FAT (ORGANIC SUBSTANCE),lemak
+109_fruit,fruit,1507,FRUIT,buah
+110_woodsforest,"woods, forest",420,FOREST,daging
+111_root,root,670,ROOT,akar
+112_branch,branch,1531,BRANCH,cabang
+113_leaf,leaf,628,LEAF,daun
+114_wood,wood,1295,STICK,kayu
+115_grass,grass,606,GRASS,rumput
+116_flower,flower,239,FLOWER,bunga
+117_thatchroof,"thatch, roof",2100,THATCH OR ROOF,atap
+118_house,house,1252,HOUSE,rumah
+119_rope,rope,1218,ROPE,tali
+120_needle,needle,1382,NEEDLE (FOR SEWING),jarum
+121_roadpath,"road, path",2457,PATH OR ROAD,jalan
+122_black,black,163,BLACK,hitam
+123_white,white,1335,WHITE,putih
+124_red,red,156,RED,merah
+125_green,green,1425,GREEN,hijau
+126_yellow,yellow,1424,YELLOW,kuning
+127_big,big,1202,BIG,besar
+128_small,small,1246,SMALL,kecil
+129_long,long,1203,LONG,panjang
+130_short,short,1645,SHORT,pendek
+131_thick,thick,1244,THICK,tebal
+132_thin,thin,2308,THIN,tipis
+133_narrow,narrow,1267,NARROW,sempit
+134_wide,wide,1243,WIDE,luas
+135_sharp,sharp,1396,SHARP,tajam
+136_bluntdull,"blunt, dull",379,BLUNT,tumpul
+137_shyashamed,"shy, ashamed",487,SHY,malu
+138_old,old,1229,OLD,tua
+139_painfulsick,"painful, sick",2103,PAINFUL OR SICK,sakit
+140_good,good,1035,GOOD,baik
+141_bad,bad,1292,BAD,jahat
+142_correcttrue,"correct, true",1725,CORRECT (RIGHT),benar
+143_dirty,dirty,1230,DIRTY,kotor
+144_rotten,rotten,1728,ROTTEN,busuk
+145_all,all,98,ALL,semua
+146_heavy,heavy,1210,HEAVY,berat
+147_far,far,1406,FAR,jauh
+148_near,near,1942,NEAR,dekat
+149_warm,warm,1232,WARM,hangat
+150_cold,cold,1287,COLD,dingin
+151_dry,dry,1398,DRY,kering
+152_wet,wet,1726,WET,basah
+153_new,new,1231,NEW,baru
+154_other,other,197,OTHER,lain
+155_come,come,1446,COME,datang
+156_walk,walk,1443,WALK,berjalan
+157_grow,grow,479,GROW,tumbuh
+158_stand,stand,1442,STAND,berdiri
+159_sit,sit,1416,SIT,duduk
+160_fall,fall,1280,FALL,jatuh
+161_liedown,lie down,215,LIE DOWN,baring
+162_turn,turn,1588,TURN,"belok, balik"
+163_climb,climb,1102,CLIMB,panjat
+164_swim,swim,1439,SWIM,berenang
+165_flyverb,fly (verb),1441,FLY (MOVE THROUGH AIR),terbang
+166_throw,throw,1456,THROW,lempar
+167_hide,hide,602,HIDE (CONCEAL),sembunyi
+168_chew,chew,321,CHEW,mengunyah
+169_eat,eat,1336,EAT,makan
+170_drink,drink,1401,DRINK,minum
+171_bite,bite,1403,BITE,gigit
+172_suck,suck,1421,SUCK,isap
+173_yawn,yawn,1028,YAWN,menguap
+174_spit,spit,1440,SPIT,meludah
+175_dream,dream,1920,DREAM (SOMETHING),mimpi
+176_sleep,sleep,1585,SLEEP,tidur
+177_live,live,1422,BE ALIVE,hidup
+178_die,die,2101,BE DEAD OR DIE,meninggal
+179_kill,kill,1417,KILL,bunuh
+180_see,see,1409,SEE,lihat
+181_hear,hear,1408,HEAR,dengar
+182_sniffsmell,"sniff, smell",1586,SMELL (PERCEIVE),mencium
+183_know,know,1410,KNOW (SOMETHING),"tahu, mengerti"
+184_think,think,2271,THINK,pikir
+185_laugh,laugh,1355,LAUGH,tertawa
+186_cry,cry,1839,CRY,menangis
+187_blow,blow,175,BLOW (OF WIND),tiup
+188_burn,burn,2102,BURN,bakar
+189_flow,flow,2003,FLOW,mengalir
+190_sew,sew,1457,SEW,jahit
+191_pound,pound,354,POUND,tumbuk
+192_hit,hit,1433,HIT,pukul
+193_cut,cut,1432,CUT,potong
+194_split,split,1437,SPLIT,bagi ... membagi 
+195_dig,dig,1418,DIG,gali
+196_hunt,hunt,1435,HUNT,berburu
+197_hold,hold,1448,HOLD,pegang
+198_fear,fear,1419,FEAR (BE AFRAID),takut
+199_count,count,1420,COUNT,hitung
+200_breathe,breathe,1407,BREATHE,bernafas
+201_vomit,vomit,1278,VOMIT,muntah
+202_tieup,tie (up),1094,FASTEN,ikat
+203_squeeze,squeeze,1414,SQUEEZE,"peras, ramas"
+204_swell,swell,1573,SWELL,bengkak
+205_say,say,1458,SAY,bilang
+206_scratch,scratch,1436,SCRATCH,garuk
+207_stab,stab,1434,STAB,tikam
+208_buy,buy,1869,BUY,beli
+209_steal,steal,713,STEAL,curi
+210_choose,choose,1750,CHOOSE,pilih
+211_plant,plant,1486,PLANT (SOMETHING),tanam
+212_cook,cook,1100,COOK (SOMETHING),masak
+213_shoot,shoot,1172,SHOOT,tembak
+214_work,work,1086,WORK (ACTIVITY),kerja
+215_open,open,1156,OPEN,tumbuk
