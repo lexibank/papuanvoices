@@ -13,4 +13,5 @@ Simon Tabuni |  | data entry | Author
 Stevani Karesina |  | data entry | Author
 Paul Heggarty |  | author, consultant | Author
 Darja Dërmaku-Appelganz |  | audio post-processing | Author
+Russell Gray |  | Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Papuan Voices study. | Author
 Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Other
