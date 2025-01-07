@@ -3,7 +3,9 @@
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+- the original source
+  > Yusuf Sawaki, Jeanete Lekeneny, Apriani Arilaha, Jimmi Kirihio, Emanuel Tutorop, Boas Wabia, Infak Mayor, Simon Tabuni, Stevani Karesina, Paul Heggarty, Darja Dërmaku-Appelganz (2020). Papuan Voices.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
