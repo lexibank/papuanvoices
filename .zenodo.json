@@ -57,5 +57,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-NC-4.0"
-    }
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Yusuf Sawaki, Jeanete Lekeneny, Apriani Arilaha, Jimmi Kirihio, Emanuel Tutorop, Boas Wabia, Infak Mayor, Simon Tabuni, Stevani Karesina, Paul Heggarty, Darja D\u00ebrmaku-Appelganz (2020). Papuan Voices.</p>\n</blockquote>"
 }
