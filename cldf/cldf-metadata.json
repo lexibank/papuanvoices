@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/papuanvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2",
+            "dc:created": "v1.2-1-gbbca9f7",
             "dc:title": "Repository"
         },
         {
