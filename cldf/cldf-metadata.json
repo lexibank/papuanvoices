@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/papuanvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.2-1-gbbca9f7",
+            "dc:created": "v1.2-2-g91c6243",
             "dc:title": "Repository"
         },
         {
@@ -273,6 +273,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
             "dc:extent": 8295,
+            "dc:hasPart": "https://doi.org/10.5281/zenodo.21478046",
             "tableSchema": {
                 "columns": [
                     {

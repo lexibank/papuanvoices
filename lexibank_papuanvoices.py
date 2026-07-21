@@ -11,7 +11,7 @@ from pylexibank import progressbar
 from csvw.metadata import URITemplate
 from csvw.dsv import reader
 
-
+MEDIA_DOI = '10.5281/zenodo.21478046'
 ROLE_MAP = {
     'ContributorPhoneticTranscriptionBy': 'phonetic_transcriptions',
     'ContrbutorPhoneticTranscriptionBy': 'phonetic_transcriptions',
@@ -65,7 +65,7 @@ class Dataset(BaseDataset):
             sc_wp_map = {m[0]: m[1] for m in reader(self.etc_dir / 'sc_wp_map.tsv', delimiter='\t')}
             known_param_ids = {d['ID'] for d in ds.objects['ParameterTable']}
 
-            ds.cldf.add_component(
+            t = ds.cldf.add_component(
                 'MediaTable',
                 {'name': 'size', 'datatype': 'integer'},
                 {
@@ -75,6 +75,7 @@ class Dataset(BaseDataset):
                     'datatype': 'string'
                 },
             )
+            t.common_props['dc:hasPart'] = f'https://doi.org/{MEDIA_DOI}'
             ds.cldf.remove_columns('MediaTable', 'Description')
             ds.cldf['MediaTable', 'ID'].valueUrl = URITemplate(
                 'https://s3.nexus.mpcdf.mpg.de//eva-dlce-papuanvoices/{Name}')
@@ -170,6 +171,11 @@ class Dataset(BaseDataset):
                             mimetype = bs['content-type']
                             if mimetype == 'audio/wav':
                                 mimetype = 'audio/x-wav'
+                            zenodo_id = MEDIA_DOI.split('.')[-1]
+                            dl_url = f'https://zenodo.org/records/{zenodo_id}/files/media_derived.zip'
+                            if mimetype == 'audio/x-wav':
+                                dl_url = f'https://zenodo.org/records/{zenodo_id}/files/media.zip'
+
                             name = f'{bs["checksum"]}{mimetypes.guess_extension(mimetype)}'
                             ds.objects['MediaTable'].append({
                                 'ID': bs['checksum'],
@@ -177,7 +183,7 @@ class Dataset(BaseDataset):
                                 'Media_Type': mimetype,
                                 'size': bs['filesize'],
                                 'Form_ID': new['ID'],
-                                'Download_URL': 'https://zenodo.org/records/4350924/files/media.zip',
+                                'Download_URL': dl_url,
                                 'Path_In_Zip': f'media/{bs["checksum"][:2]}/{bs["checksum"]}.{bs["bitstreamid"].split(".")[-1]}',
                             })
 
