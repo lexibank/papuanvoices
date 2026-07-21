@@ -4,7 +4,7 @@
 ## Segments
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
-|:----------|-------------:|:-------|:------------------|
+| :-----: | :--------: | :--: | :-------------: |
 | a | 2333 | ✓ | ✓ |
 | i | 1216 | ✓ | ✓ |
 | n | 921 | ✓ | ✓ |
@@ -73,17 +73,17 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-|:---------------------------|:-----------|:---------------|:-------|
+| :------------------------: | :-------: | :------------: | :--: |
+| Yapenwooi-13_onehundred-1 | Yapenwooi | 13_onehundred | ► |
+| Yapenwooi-14_onethousand-1 | Yapenwooi | 14_onethousand | ► |
+| Yapenwooi-60_intestines-1 | Yapenwooi | 60_intestines | ► |
+| Yapenwooi-62_liver-1 | Yapenwooi | 62_liver | ► |
 | Yapenwooi-107_salt-1 | Yapenwooi | 107_salt | ► |
 | Yapenwooi-133_narrow-1 | Yapenwooi | 133_narrow | ► |
 | Yapenwooi-134_wide-1 | Yapenwooi | 134_wide | ► |
 | Yapenwooi-138_old-1 | Yapenwooi | 138_old | ► |
-| Yapenwooi-13_onehundred-1 | Yapenwooi | 13_onehundred | ► |
-| Yapenwooi-14_onethousand-1 | Yapenwooi | 14_onethousand | ► |
 | Yapenwooi-196_hunt-1 | Yapenwooi | 196_hunt | ► |
 | Yapenwooi-214_work-1 | Yapenwooi | 214_work | ► |
-| Yapenwooi-60_intestines-1 | Yapenwooi | 60_intestines | ► |
-| Yapenwooi-62_liver-1 | Yapenwooi | 62_liver | ► |
 
 (10 rows)
 
@@ -92,7 +92,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|------|------------|-----------|--------|------------|
+| :-: | :------: | :-----: | :--: | :------: |
+| | | | | |
 
 (0 rows)
 

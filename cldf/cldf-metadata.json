@@ -5,9 +5,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Papuan Voices presents phonetically-transcribed primary recordings, from numerous places throughout Papua island",
     "dc:identifier": "https://papuanvoices.clld.org",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Papuan Voices",
     "dcat:accessURL": "https://github.com/lexibank/papuanvoices",
@@ -15,19 +13,19 @@
         {
             "rdf:about": "https://github.com/lexibank/papuanvoices",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.1",
+            "dc:created": "v1.2",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.2.0",
+            "dc:created": "v3.4.0",
             "dc:title": "Concepticon"
         },
         {
@@ -44,7 +42,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.8"
+            "dc:description": "3.12.3"
         },
         {
             "dc:title": "python-packages",
@@ -162,6 +160,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "CustomLanguage(ID: str = '', Name: Optional[str] = None, ISO639P3code: Optional[str] = None, Glottocode: Optional[str] = None, Macroarea: Optional[str] = None, Latitude: Optional[float] = None, Longitude: Optional[float] = None, Glottolog_Name: Optional[str] = None, Family: Optional[str] = None, LongName: Optional[str] = None, IsProto: Optional[str] = None)",
             "dc:extent": 13,
             "tableSchema": {
                 "columns": [
@@ -236,6 +235,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "CustomConcept(ID: Optional[str] = '', Name: Optional[str] = '', Concepticon_ID: Optional[str] = None, Concepticon_Gloss: Optional[str] = None, Papuan_Malay_Gloss: Optional[str] = None)",
             "dc:extent": 215,
             "tableSchema": {
                 "columns": [
@@ -282,7 +282,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
                         "required": true,
-                        "valueUrl": "https://cdstar.eva.mpg.de/bitstreams/{objid}/{Name}",
+                        "valueUrl": "https://s3.nexus.mpcdf.mpg.de//eva-dlce-papuanvoices/{Name}",
                         "name": "ID"
                     },
                     {
@@ -292,8 +292,25 @@
                         "name": "Name"
                     },
                     {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[^/]+/.+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
+                        "required": true,
+                        "name": "Media_Type"
+                    },
+                    {
+                        "datatype": "anyURI",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#downloadUrl",
+                        "required": false,
+                        "name": "Download_URL"
+                    },
+                    {
                         "datatype": "string",
-                        "name": "objid"
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#pathInZip",
+                        "required": false,
+                        "name": "Path_In_Zip"
                     },
                     {
                         "datatype": "integer",
@@ -304,15 +321,6 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
                         "required": true,
                         "name": "Form_ID"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "[^/]+/.+"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaType",
-                        "required": true,
-                        "name": "mimetype"
                     }
                 ],
                 "foreignKeys": [

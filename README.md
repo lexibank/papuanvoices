@@ -1,5 +1,7 @@
 # Papuan Voices
 
+[![CLDF validation](https://github.com/lexibank/papuanvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/papuanvoices/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -16,14 +18,21 @@ This dataset is licensed under a CC-BY-NC-4.0 license
 
 Available online at https://papuanvoices.clld.org
 
+## Notes
+
+
+![map](map.svg)
+
+
 ## Statistics
 
 
-![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+[![CLDF validation](https://github.com/lexibank/papuanvoices/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/papuanvoices/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 100%](etc/badge_languages.svg)
+![Concepticon: 100%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 13 (linked to 13 different Glottocodes)
 - **Concepts:** 215 (linked to 215 different Concepticon concept sets)
@@ -37,21 +46,22 @@ Available online at https://papuanvoices.clld.org
 
 # Contributors
 
-Name               | GitHub user     | Description                          | Role
----                | ---             | ---                                  | ---
-Yusuf Sawaki |  | admin, data entry | Author
-Jeanete Lekeneny |  | data entry, audio recordings | Author
-Apriani Arilaha |  | data entry, audio recordings | Author
-Jimmi Kirihio |  | data entry, audio recordings | Author
-Emanuel Tutorop |  | data entry, audio recordings | Author
-Boas Wabia |  | data entry, audio recordings | Author
-Infak Mayor |  | data entry | Author
-Simon Tabuni |  | data entry | Author
-Stevani Karesina |  | data entry | Author
-Paul Heggarty |  | author, consultant | Author
-Darja Dërmaku-Appelganz |  | audio post-processing | Author
-Russell Gray |  | Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Papuan Voices study. | Author
-Hans-Jörg Bibiko | @Bibiko | patron, maintainer | Other
+Name               | GitHub user | Description                  | Role
+---                |----| ---                                  | ---
+Yusuf Sawaki |    | admin, data entry | Author
+Jeanete Lekeneny |    | data entry, audio recordings | Author
+Apriani Arilaha |    | data entry, audio recordings | Author
+Jimmi Kirihio |    | data entry, audio recordings | Author
+Emanuel Tutorop |    | data entry, audio recordings | Author
+Boas Wabia |    | data entry, audio recordings | Author
+Infak Mayor |    | data entry | Author
+Simon Tabuni |    | data entry | Author
+Stevani Karesina |    | data entry | Author
+Paul Heggarty |    | author, consultant | Author
+Darja Dërmaku-Appelganz |    | audio post-processing | Author
+Russell Gray |    | Director of the Department of Linguistic and Cultural Evolution, which fully supported data collection and processing for the Papuan Voices study. | Author
+Hans-Jörg Bibiko |    | patron, maintainer | Other
+Robert | @xrotwang | maintainer | DataCurator
 
 
 
